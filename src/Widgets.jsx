@@ -14,11 +14,11 @@ function Widgets() {
       <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
 
-        <TwitterTweetEmbed tweetId={"858551177860055040"} />
+        <TwitterTweetEmbed tweetId={"1537892971755950081"} />
 
-        <TwitterTimelineEmbed sourceType="profile" screenName="cleverqazi" options={{ height: 400 }} />
+        <TwitterTimelineEmbed sourceType="profile" screenName="imgver" options={{ height: 400 }} />
 
-        <TwitterShareButton url={"https://facebook.com/cleverprogrammer"} options={{ text: "#reactjs is awesome", via: "cleverqazi" }} />
+        <TwitterShareButton url={"https://www.facebook.com/CuteOverrated/"} options={{ text: "#This is soo cute", via: "imgver" }} />
         
       </div>
     </div>
